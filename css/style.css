@@ -40,3 +40,20 @@
     padding: 10px 30px;
     border-radius: 8px;
 }
+/* Shoes,Bags Cards */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;
+}
+/* Contact Us */
+.subscribe{
+    height: 300px;
+}
+.subscribe h6{
+    color: gray;
+}
+/* Footer */
+footer{
+    text-align: center;
+}
