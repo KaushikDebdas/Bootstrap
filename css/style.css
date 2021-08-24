@@ -18,3 +18,25 @@
     padding: 9px 25px;
     border: none;
 }
+/* Catagories */
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.category-watch{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.category-bags{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.category-shoes{
+    background-color: lightblue;
+    padding: 10px 30px;
+    border-radius: 8px;
+}
